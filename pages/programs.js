@@ -18,12 +18,7 @@ export default function Programs() {
     <div className="bg-white shadow-md rounded-lg p-6 hover:shadow-lg transition cursor-pointer">
       <h3 className="text-xl font-bold text-orange-600 mb-2">Younger Preschoolers</h3>
       <p className="text-gray-600 mb-2">18 months to 2½ years old</p>
-      <p className="text-orange-500 text-sm mb-4">Ridgefield Location Only</p>
-      <img
-        src="/images/younger-preschool.jpg"
-        alt="Younger Preschoolers Classroom"
-        className="rounded w-full h-40 object-cover"
-      />
+      <p className="text-orange-500 text-sm mb-4">Ridgefield Location Only</p> 
     </div>
   </Link>
 
@@ -32,11 +27,7 @@ export default function Programs() {
     <div className="bg-white shadow-md rounded-lg p-6 hover:shadow-lg transition cursor-pointer">
       <h3 className="text-xl font-bold text-yellow-600 mb-2">Preschool</h3>
       <p className="text-gray-600 mb-2">3½ to 4½ years old</p>
-      <img
-        src="/images/preschool.jpg"
-        alt="Preschool Classroom"
-        className="rounded w-full h-40 object-cover"
-      />
+      <p className="text-yellow-500 text-sm mb-4">Full Time & Part Time Classes</p>
     </div>
   </Link>
 
@@ -45,12 +36,7 @@ export default function Programs() {
     <div className="bg-white shadow-md rounded-lg p-6 hover:shadow-lg transition cursor-pointer">
       <h3 className="text-xl font-bold text-blue-600 mb-2">Pre-Kindergarten</h3>
       <p className="text-gray-600 mb-2">4 to 5 years old</p>
-      <p className="text-blue-500 text-sm mb-4">Full Time Class Only</p>
-      <img
-        src="/images/pre-k.jpg"
-        alt="Pre-Kindergarten Classroom"
-        className="rounded w-full h-40 object-cover"
-      />
+      <p className="text-blue-500 text-sm mb-4">Full Time Class Only</p> 
     </div>
   </Link>
 
@@ -59,11 +45,7 @@ export default function Programs() {
     <div className="bg-white shadow-md rounded-lg p-6 hover:shadow-lg transition cursor-pointer">
       <h3 className="text-xl font-bold text-purple-600 mb-2">Kindergarten</h3>
       <p className="text-gray-600 mb-2">5 to 6 years old</p>
-      <img
-        src="/images/kindergarten.jpg"
-        alt="Kindergarten Classroom"
-        className="rounded w-full h-40 object-cover"
-      />
+      <p className="text-purple-500 text-sm mb-4">Full Time Class Only</p>
     </div>
   </Link>
 </div>

@@ -526,15 +526,6 @@ function Programs() {
                                         fileName: "[project]/pages/programs.js",
                                         lineNumber: 21,
                                         columnNumber: 7
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                        src: "/images/younger-preschool.jpg",
-                                        alt: "Younger Preschoolers Classroom",
-                                        className: "rounded w-full h-40 object-cover"
-                                    }, void 0, false, {
-                                        fileName: "[project]/pages/programs.js",
-                                        lineNumber: 22,
-                                        columnNumber: 7
                                     }, this)
                                 ]
                             }, void 0, true, {
@@ -557,7 +548,7 @@ function Programs() {
                                         children: "Preschool"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/programs.js",
-                                        lineNumber: 33,
+                                        lineNumber: 28,
                                         columnNumber: 7
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -565,27 +556,26 @@ function Programs() {
                                         children: "3½ to 4½ years old"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/programs.js",
-                                        lineNumber: 34,
+                                        lineNumber: 29,
                                         columnNumber: 7
                                     }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                        src: "/images/preschool.jpg",
-                                        alt: "Preschool Classroom",
-                                        className: "rounded w-full h-40 object-cover"
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                        className: "text-yellow-500 text-sm mb-4",
+                                        children: "Full Time & Part Time Classes"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/programs.js",
-                                        lineNumber: 35,
+                                        lineNumber: 30,
                                         columnNumber: 7
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/pages/programs.js",
-                                lineNumber: 32,
+                                lineNumber: 27,
                                 columnNumber: 5
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/pages/programs.js",
-                            lineNumber: 31,
+                            lineNumber: 26,
                             columnNumber: 3
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
@@ -598,7 +588,7 @@ function Programs() {
                                         children: "Pre-Kindergarten"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/programs.js",
-                                        lineNumber: 46,
+                                        lineNumber: 37,
                                         columnNumber: 7
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -606,7 +596,7 @@ function Programs() {
                                         children: "4 to 5 years old"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/programs.js",
-                                        lineNumber: 47,
+                                        lineNumber: 38,
                                         columnNumber: 7
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -614,27 +604,18 @@ function Programs() {
                                         children: "Full Time Class Only"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/programs.js",
-                                        lineNumber: 48,
-                                        columnNumber: 7
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                        src: "/images/pre-k.jpg",
-                                        alt: "Pre-Kindergarten Classroom",
-                                        className: "rounded w-full h-40 object-cover"
-                                    }, void 0, false, {
-                                        fileName: "[project]/pages/programs.js",
-                                        lineNumber: 49,
+                                        lineNumber: 39,
                                         columnNumber: 7
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/pages/programs.js",
-                                lineNumber: 45,
+                                lineNumber: 36,
                                 columnNumber: 5
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/pages/programs.js",
-                            lineNumber: 44,
+                            lineNumber: 35,
                             columnNumber: 3
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
@@ -647,7 +628,7 @@ function Programs() {
                                         children: "Kindergarten"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/programs.js",
-                                        lineNumber: 60,
+                                        lineNumber: 46,
                                         columnNumber: 7
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -655,27 +636,26 @@ function Programs() {
                                         children: "5 to 6 years old"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/programs.js",
-                                        lineNumber: 61,
+                                        lineNumber: 47,
                                         columnNumber: 7
                                     }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                        src: "/images/kindergarten.jpg",
-                                        alt: "Kindergarten Classroom",
-                                        className: "rounded w-full h-40 object-cover"
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                        className: "text-purple-500 text-sm mb-4",
+                                        children: "Full Time Class Only"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/programs.js",
-                                        lineNumber: 62,
+                                        lineNumber: 48,
                                         columnNumber: 7
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/pages/programs.js",
-                                lineNumber: 59,
+                                lineNumber: 45,
                                 columnNumber: 5
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/pages/programs.js",
-                            lineNumber: 58,
+                            lineNumber: 44,
                             columnNumber: 3
                         }, this)
                     ]

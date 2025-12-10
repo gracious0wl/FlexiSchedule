@@ -5,11 +5,23 @@ self.__BUILD_MANIFEST = {
   "/_error": [
     "static/chunks/pages/_error.js"
   ],
+  "/about": [
+    "static/chunks/pages/about.js"
+  ],
+  "/calendars": [
+    "static/chunks/pages/calendars.js"
+  ],
   "/careers": [
     "static/chunks/pages/careers.js"
   ],
+  "/contact": [
+    "static/chunks/pages/contact.js"
+  ],
   "/programs": [
     "static/chunks/pages/programs.js"
+  ],
+  "/staff": [
+    "static/chunks/pages/staff.js"
   ],
   "__rewrites": {
     "afterFiles": [],
@@ -24,13 +36,12 @@ self.__BUILD_MANIFEST = {
     "/calendars",
     "/careers",
     "/contact",
+    "/curriculum",
     "/curriculum/kindergarten",
     "/curriculum/pre-kindergarten",
     "/curriculum/preschool",
     "/curriculum/younger-preschoolers",
     "/programs",
-    "/staff/assistant-teacher-1",
-    "/staff/assistant-teacher-2",
-    "/staff/main-teacher"
+    "/staff"
   ]
 };self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
