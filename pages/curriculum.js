@@ -1,8 +1,3 @@
-
-// pages/curriculum.js
-// Single source of truth for program metadata and month-by-month studies.
-// Younger Preschoolers content comes from your PDF.
-// Preschool, Pre‑K, and Kindergarten studies are placeholders.
 export const programs = [
   // —————————————————————————————————————————
   // Younger Preschoolers (PDF-based)
@@ -578,21 +573,26 @@ export const programs = [
 export const programByKey = (key) => programs.find((p) => p.key === key);
 export const programByRoute = (route) => programs.find((p) => p.route === route);
 
-// Corrected Export: No more conflict markers
-export default function CurriculumPage() {
-    return (
-        <div className="p-8 max-w-4xl mx-auto">
-            <h1 className="text-3xl font-bold mb-4">Our Curriculum</h1>
-            <p className="text-gray-600 mb-6">
-                Explore our research-based learning approach for all age groups.
-            </p>
-            {/* Link back to Enrollment (US-03) */}
-            <div className="mt-10 p-6 bg-blue-50 rounded-lg">
-                <h2 className="text-xl font-semibold">Ready to join?</h2>
-                <a href="/enroll" className="text-blue-600 font-medium hover:underline">
-                    Start the multi-step enrollment process →
-                </a>
-            </div>
-        </div>
-    );
+export default function ProgramsPage() {
+  return (
+    <div className="container mx-auto px-4 py-8">
+      {programs.map((program) => (
+        /* The dynamic id attribute here links directly to the card clicks */
+        <section 
+          key={program.key} 
+          id={program.key} 
+          className="py-12 border-b scroll-mt-6"
+        >
+          <div className="max-w-4xl mx-auto px-4">
+            <h2 className={`text-3xl font-bold ${program.highlightColor}`}>
+              {program.title}
+            </h2>
+            <p className="text-gray-600 mt-2 font-semibold">{program.ageRange}</p>
+            
+            {/* Render studies mapping or unique program content details down here */}
+          </div>
+        </section>
+      ))}
+    </div>
+  );
 }
